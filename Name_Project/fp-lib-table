@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/Farouk/Desktop/'/Code/Pcbs/test/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "C:/Users/Farouk/Desktop/'/Code/Pcbs/test/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/Farouk/Desktop/'/Code/Pcbs/test/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/Farouk/Desktop/'/Code/Pcbs/test/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "VoidSwitch")(type "KiCad")(uri "${KIPRJMOD}/void_switch_kicad/footprints")(options "")(descr ""))
+  (lib (name "Blackpill")(type "KiCad")(uri "C:/Users/Farouk/Desktop/'/Code/Pcbs/test/void_switch_65_pct/kicad_blackpill")(options "")(descr ""))
+)
